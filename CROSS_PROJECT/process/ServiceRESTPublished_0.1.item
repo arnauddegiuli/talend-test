@@ -106,7 +106,7 @@
     <routinesParameter id="_j6AJ4NIQEeiKQMMXK3E6jw" name="SQLike"/>
     <routinesParameter id="_u5RA4NIdEeiMs74eJtnwIQ" name="MDM"/>
   </parameters>
-  <node componentName="tLogCatcher" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="480" posY="320">
+  <node componentName="tLogCatcher" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="384" posY="384">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tLogCatcher_1" show="false"/>
     <elementParameter field="CHECK" name="CATCH_JAVA_EXCEPTION" value="true"/>
     <elementParameter field="CHECK" name="CATCH_TDIE" value="true"/>
