@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_jfeKANIQEeiKQMMXK3E6jw" label="CROSS_PROJECT" description="" language="java" technicalLabel="CROSS_PROJECT" creationDate="2018-10-17T15:26:32.000+0200" author="_jfeKAdIQEeiKQMMXK3E6jw" productVersion="Talend Data Fabric-6.5.1.20180116_1512" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/arnauddegiuli/talend-test.git&quot;,&quot;login&quot;:&quot;arnauddegiuli&quot;,&quot;passwd&quot;:&quot;P/HwQ5PUDMJq0gBVCzPR9w==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_jfeKAdIQEeiKQMMXK3E6jw" login="adegiuli@cross-systems.ch" firstName="security" lastName="security" type="MDM" additionnalData="{}"/>
+</xmi:XMI>
