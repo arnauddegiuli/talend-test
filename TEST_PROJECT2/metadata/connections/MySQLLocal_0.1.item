@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
-  <TalendMetadata:DatabaseConnection xmi:id="_iePKkPGNEeixGt1HvfmFKg" name="MySQLLocql" id="_ZwG80PGNEeixGt1HvfmFKg" label="MySQLLocql" dataPackage="_iewvAPGNEeixGt1HvfmFKg" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/skyguide?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="u7jLjYfs5IfkKFD2NwoBTg==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="skyguide" SqlSynthax="Syntaxe SQL" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+  <TalendMetadata:DatabaseConnection xmi:id="_iePKkPGNEeixGt1HvfmFKg" name="MySQLLocal" id="_ZwG80PGNEeixGt1HvfmFKg" label="MySQLLocal" dataPackage="_kytHkPGNEeixGt1HvfmFKg" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/skyguide?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="root" Password="u7jLjYfs5IfkKFD2NwoBTg==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="skyguide" SqlSynthax="Syntaxe SQL" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
     <taggedValue xmi:id="_iePxoPGNEeixGt1HvfmFKg" tag="Is Conn Need Reload" value="false"/>
     <taggedValue xmi:id="_iecl8PGNEeixGt1HvfmFKg" tag="package filter" value=""/>
     <taggedValue xmi:id="_iehecPGNEeixGt1HvfmFKg" tag="Status" value=""/>
@@ -13,6 +13,7 @@
     <taggedValue xmi:id="_iemW8fGNEeixGt1HvfmFKg" tag="DB ProductVersion" value="5.7.23-log"/>
     <taggedValue xmi:id="_iemW8vGNEeixGt1HvfmFKg" tag="DB IdentifierQuoteString" value="`"/>
     <parameters xmi:id="_iePxofGNEeixGt1HvfmFKg" key="CONN_PARA_KEY_USERNAME" value="root"/>
+    <parameters xmi:id="_j_uygPGNEeixGt1HvfmFKg" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
   </TalendMetadata:DatabaseConnection>
-  <orgomg.cwm.resource.relational:Catalog xmi:id="_iewvAPGNEeixGt1HvfmFKg" name="skyguide" dataManager="_iePKkPGNEeixGt1HvfmFKg"/>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_kytHkPGNEeixGt1HvfmFKg" name="skyguide" dataManager="_iePKkPGNEeixGt1HvfmFKg"/>
 </xmi:XMI>
