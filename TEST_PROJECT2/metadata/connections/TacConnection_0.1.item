@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_I7pQIPS5Eei68OuwxDJXxQ" name="TacConnection" id="_EDB7YPS5Eei68OuwxDJXxQ" label="TacConnection" dataPackage="_I8SwYPS5Eei68OuwxDJXxQ" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://svmtalendadm.micropole.net:3306/amc?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="talend" Password="u7jLjYfs5IfkKFD2NwoBTg==" ServerName="svmtalendadm.micropole.net" DatasourceName="" FileFieldName="" SID="amc" SqlSynthax="Syntaxe SQL" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_I7pQIfS5Eei68OuwxDJXxQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_I702UPS5Eei68OuwxDJXxQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_I75u0PS5Eei68OuwxDJXxQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_I75u0fS5Eei68OuwxDJXxQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_I75u0vS5Eei68OuwxDJXxQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_I75u0_S5Eei68OuwxDJXxQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_I75u1PS5Eei68OuwxDJXxQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_I75u1fS5Eei68OuwxDJXxQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_I8HKMPS5Eei68OuwxDJXxQ" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_I8HKMfS5Eei68OuwxDJXxQ" tag="DB ProductVersion" value="5.7.23-log"/>
+    <taggedValue xmi:id="_I8HKMvS5Eei68OuwxDJXxQ" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_I7pQIvS5Eei68OuwxDJXxQ" key="CONN_PARA_KEY_USERNAME" value="talend"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_I8SwYPS5Eei68OuwxDJXxQ" name="amc" dataManager="_I7pQIPS5Eei68OuwxDJXxQ"/>
+</xmi:XMI>
